@@ -1,0 +1,8 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-navy-950 {
+  background-color: #0a0b1a;
+}
